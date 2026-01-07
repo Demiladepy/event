@@ -1,0 +1,15 @@
+node_modules
+.next
+.env
+.env.local
+artifacts
+cache
+typechain-types
+.docusaurus
+.cache
+dist
+out
+build
+coverage
+.DS_Store
+*.pem
